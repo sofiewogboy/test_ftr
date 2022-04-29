@@ -7,7 +7,7 @@ Language: NodeJS / typescript
 ```
 git clone https://github.com/sofiewogboy/test_ftr.git
 cd test_ftr
-npm run install
+npm install
 npm start 
 ```
 

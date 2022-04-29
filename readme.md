@@ -5,7 +5,7 @@ Language: NodeJS / typescript
 
 # Running the application
 ```
-git clone https://gitlab.com/ausenco-rylson/rylson8.git
+git clone https://github.com/sofiewogboy/test_ftr.git
 cd rylson8
 npm run install-all
 npm start 

@@ -6,7 +6,7 @@ Language: NodeJS / typescript
 # Running the application
 ```
 git clone https://github.com/sofiewogboy/test_ftr.git
-cd rylson8
+cd test_ftr
 npm run install-all
 npm start 
 ```
